@@ -41,8 +41,8 @@ body{
     gap: 24px;
 }
 .container__hero-img{
-    width: 96px;
-    height: 96px;
+    width: 90px;
+    height: 90px;
     border-radius: 100px;
 }
 .container__hero-img img{
@@ -54,7 +54,7 @@ body{
     text-align: center;
 }
 .hero-information h2{
-    font-size: 26px;
+    font-size: 24px;
     font-weight: bold;
     color: var(--White);
     margin-bottom: 7px;
